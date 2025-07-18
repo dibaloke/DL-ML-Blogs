@@ -8,6 +8,7 @@
 | Lilian Weng Blog | Covers advanced SOTA topics in deep learning and cites a lot interesting papers | [Link](https://lilianweng.github.io/) | Active |
 | Maxime Labonne Blog| Covers topics include GNN and LLMs | [Link](https://mlabonne.github.io/blog/)| Active|
 | Ayan Das Blog| Covers advanced and SOTA topics in DL | [Link](https://ayandas.me/blogs.html)| Active|
+| Maurice Weiler Blog | Covers Geometric Deep Learning | [Link](https://maurice-weiler.gitlab.io/)| Active|
 
 
 
