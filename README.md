@@ -10,6 +10,7 @@
 | Ayan Das Blog| Covers advanced and SOTA topics in DL | [Link](https://ayandas.me/blogs.html)| Last Post from April 26, 2024|
 | Maurice Weiler Blog | Covers Geometric Deep Learning | [Link](https://maurice-weiler.gitlab.io/)| Last Post from May, 2024 |
 | Hendrik J. Weideman Blog | Covers general concepts in Deep Learning | [Link](https://hjweide.github.io/)|Last Post from 2018|
+| Bounded Rationality | Cover different topics in Deep Learning and Bayesian Inference | [Link](https://bjlkeng.io/) | Active|
 
 
 
